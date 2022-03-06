@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anomdule
 - 👀 I’m interested in data preparation, data analysis, and data visualization
-- 🌱 I’m currently learning STATA, Eviews
+- 🌱 I’m currently learning STATA, Eviews, I also worked in R 
+- I have analysed various datasets and replicated two papers with one ongoing paper.
 - 💞️ I’m looking to collaborate on a development economics project
 - 📫 How to reach me anomdule@gmail.com, anomdule@umd.edu
 
