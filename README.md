@@ -9,7 +9,7 @@
 anomdule/anomdule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-......................................................................................................................
+
 **Replication Project:de Silva, Tiloka, and Silvana Tenreyro. 2017. ―Population Control Policies and Fertility 
 Convergence‖, Journal of Economic Perspectives—Volume 31, Number 4—Fall 2017—Pages 205–228 
 **
